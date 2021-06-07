@@ -16,8 +16,6 @@
         <tbody>
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=23UnXjL7d-I&t=0s" alt="00:00">00:00</a></td>
-            </tr>
-            <tr>
                 <td>npm start</td>
             </tr>
         </tbody>
