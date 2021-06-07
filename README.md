@@ -20,7 +20,7 @@
         </thead>
         <tbody>
             <tr>
-                <a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.JUNHO.md" alt="Junho"><td>Junho</td></>
+                <a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.JUNHO.md" alt="Junho">Junho</>
             </tr>
         </tbody>
     </table>
