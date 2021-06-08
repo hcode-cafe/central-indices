@@ -18,6 +18,14 @@
                 <td><a href="https://www.youtube.com/watch?v=23UnXjL7d-I&t=0s" alt="00:00">00:00</a></td>
                 <td>npm start</td>
             </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=23UnXjL7d-I&t=380s">06:30</a></td>
+                <td>Boas Vindas!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=23UnXjL7d-I&t=530s">08:08</a></td>
+                <td>Manchetes</td>
+            </tr>
         </tbody>
     </table>
 </div>
