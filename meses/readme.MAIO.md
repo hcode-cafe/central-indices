@@ -63,8 +63,76 @@
                 <td>Rust aumentando sua popularidade</td>
             </tr>
             <tr>
-                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=3377s" alt="54:11">56:17</a></td>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=3377s" alt="56:17">56:17</a></td>
                 <td>Linguagens de Programação mais populares</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=4320s" alt="01:12:00">01:12:00</a></td>
+                <td>Google Cloud Functions agora terão suporte ao PHP</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=4759s" alt="01:19:19">01:19:19</a></td>
+                <td>Criador do Webpack se junta ao time da Vercel</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=4957s" alt="01:22:37">01:22:37</a></td>
+                <td>Primeira dica bônus para um Programador</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=5163s" alt="01:26:03">01:26:03</a></td>
+                <td>Dica número 1: Documentação</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=5250s" alt="01:27:30">01:27:30</a></td>
+                <td>Documentação do código é uma excelente prática!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=5762s" alt="01:36:02">01:36:02</a></td>
+                <td>Dica número 2: Desenvolvimento pessoal</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=5799s" alt="01:36:39">01:36:39</a></td>
+                <td>Estabeleça uma meta para você aprender uma nova habilidade</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=6179s" alt="01:42:59">01:42:59</a></td>
+                <td>Vença sua meta e aumente suas Soft Skills!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=6392s" alt="01:46:32">01:46:32</a></td>
+                <td>Dica número 3: Lista de Tarefas (To do)</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=6820s" alt="01:53:40">01:53:40</a></td>
+                <td>Tenha compromisso com sua lista de tarefas</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=7081s" alt="01:58:01">01:58:01</a></td>
+                <td>Dica número 4: Idioma</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=7309s" alt="02:01:49">02:01:49</a></td>
+                <td>Problemas com inglês ou em se expressar? Mais uma dica bônus!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8222s" alt="02:17:02">02:17:02</a></td>
+                <td>Language Immersion! Dica para imergir na linguagem</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8263s" alt="02:17:43">02:17:43</a></td>
+                <td>Última dica, dica número 5: Produtividade</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8391s" alt="02:19:51">02:19:51</a></td>
+                <td>Avalie a sua produtividade... dívida seu tempo e tarefas</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8766s" alt="02:26:06">02:26:06</a></td>
+                <td>Conclusão</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8995s" alt="02:29:55">02:29:55</a></td>
+                <td>Hcode Deploy!</td>
             </tr>
         </tbody>
     </table>
