@@ -1,10 +1,29 @@
 <div align="center">
-    <h1>Primeira Live do Mês</h1>
-    <h2><blockquote><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=395s">Hcode Café ☕ - #85</a></blockquote></h2>
+    <h1>Lives do mês de Maio</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Edições</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="" alt="">#85</a></td>
+            </tr>
+        </tbody>
+    </table>        
 </div>
-<h2><blockquote> Falamos sobre Dicas de Desenvolvimento e Noticias de Programação</blockquote></h2>
+
+<div align="center">
+    <h2>Primeira Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw">Hcode Café ☕ - #85</a></blockquote></h3>
+</div>
+
+<h3><blockquote> Falamos sobre Dicas de Desenvolvimento e Noticias de Programação</blockquote></h3>
+
 <br>
 <br>
+
 <div align="center">
     <table>
         <thead>
@@ -133,6 +152,68 @@
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=6q_3fv6Eijw&t=8995s" alt="02:29:55">02:29:55</a></td>
                 <td>Hcode Deploy!</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<br>
+<br>
+<div align="center">
+    <h2>Segunda Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=bwVIOTGSosU">Hcode Café ☕ - #86</a></blockquote></h3>
+</div>
+
+<h3><blockquote>Falamos sobre Bootstrap 5, Edge Beta chegando ao Linux e WhatsApp Pay</blockquote></h3>
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Tempo</th>
+                <th>Assunto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=0s" alt="00:00">00:00</a></td>
+                <td>npm start</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=394s" alt="06:34">06:34</a></td>
+                <td>Boas Vindas</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=750s" alt="12:30">12:30</a></td>
+                <td>Destaques</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=961s" alt="16:01">16:01</a></td>
+                <td>WhatsApp Pay chega ao Brasil e explicações sobre privacidade!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=1164s" alt="19:24">19:24</a></td>
+                <td>Comentários adicionais sobre a chegada do WhatsApp Pay</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=1654s" alt="27:34">27:34</a></td>
+                <td>Fibra ótica é o principal meio de acesso à internet do Brasil</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=1804s" alt="30:04">30:04</a></td>
+                <td>Cupom de desconto da semana dos Cursos da Hcode</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=1904s" alt="31:44">31:44</a></td>
+                <td>Gráfico das transmissões de banda larga mais usadas no Brasil</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=1998s" alt="33:18">33:18</a></td>
+                <td>Comentários adicionais sobre a Fibra ótica no Brasil</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=2935s" alt="48:55">48:55</a></td>
+                <td>Google e Mozilla se unem para a criação de uma nova API</td>
             </tr>
         </tbody>
     </table>
