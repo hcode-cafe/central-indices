@@ -17,6 +17,7 @@
     </table>        
 </div>
 
+
 <br>
 <br>
 
@@ -26,6 +27,9 @@
 </div>
 
 <h3><blockquote> Falamos sobre Dicas de Desenvolvimento e Noticias de Programação</blockquote></h3>
+
+<br>
+<br>
 
 <div align="center">
     <table>
