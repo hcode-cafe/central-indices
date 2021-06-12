@@ -223,6 +223,22 @@
                 <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=2935s" alt="48:55">48:55</a></td>
                 <td>Google e Mozilla se unem para a criação de uma nova API</td>
             </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=3086s" alt="51:26">51:26</a></td>
+                <td>Comentários adicionais sobre a nova API do Google e Mozilla</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=3445s" alt="57:25">57:25</a></td>
+                <td>Visite nosso Curso de PHP</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=3475s" alt="57:55">57:55</a></td>
+                <td>Cupom de desconto da semana dos Cursos da Hcode</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=bwVIOTGSosU&t=3947s" alt="01:05:47">01:05:47</a></td>
+                <td>Microsoft, Google e IBM se únem para algo na Nuvem...</td>
+            </tr>
         </tbody>
     </table>
 </div>
