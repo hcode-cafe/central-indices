@@ -10,6 +10,9 @@
             <tr>
                 <td><a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.JUNHO.md#primeira-live-do-m%C3%AAs" alt="">#90</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.JUNHO.md#segunda-live-do-m%C3%AAs" alt="">#91</a></td>
+            </tr>
         </tbody>
     </table>      
 </div>
