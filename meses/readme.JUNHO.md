@@ -117,3 +117,31 @@
         </tbody>
     </table>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+    <h2>Segunda Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=hL9gyafKvAI">Hcode Café ☕ - #91</a></blockquote></h3>
+</div>
+
+<h3><blockquote>Falaremos sobre Como criar um currículo DIFERENCIADO</blockquote></h3>
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Tempo</th>
+                <th>Assunto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=0s" alt="00:00">00:00</a></td>
+                <td>npm start</td>
+            </tr>
+            <tr>
+        </tbody>
+    </table>
+</div>
