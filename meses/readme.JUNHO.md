@@ -129,7 +129,7 @@
     <h3><blockquote><a href="https://www.youtube.com/watch?v=hL9gyafKvAI">Hcode Café ☕ - #91</a></blockquote></h3>
 </div>
 
-<h3><blockquote>Falaremos sobre Como criar um currículo DIFERENCIADO</blockquote></h3>
+<h3><blockquote>Falamos sobre Como criar um currículo DIFERENCIADO</blockquote></h3>
 
 <div align="center">
     <table>
@@ -145,6 +145,21 @@
                 <td>npm start</td>
             </tr>
             <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=396s" alt="06:36">06:36</a></td>
+                <td>Boas Vindas!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=864s" alt="14:24">14:24</a></td>
+                <td>Destaques</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=910s" alt="15:10">15:10</a></td>
+                <td>WhatsApp Login e autenticação</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=1048s" alt="17:28">17:28</a></td>
+                <td>Comentários adicionais sobre o WharsApp Login</td>
+            </tr>
         </tbody>
     </table>
 </div>
