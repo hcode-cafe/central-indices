@@ -13,6 +13,9 @@
             <tr>
                 <td><a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.MAIO.md#segunda-live-do-m%C3%AAs" alt="">#86</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.MAIO.md#terceira-live-do-m%C3%AAs" alt="">#87</a></td>
+            </tr>
         </tbody>
     </table>      
 </div>
@@ -309,6 +312,90 @@
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=0s" alt="00:00">00:00</a></td>
                 <td>npm start</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=401s" alt="06:41">06:41</a></td>
+                <td>Boas Vindas!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=888s" alt="14:48">14:48</a></td>
+                <td>Destaques</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=1070s" alt="14:48">14:48</a></td>
+                <td>Angular 12 é lançado!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=1215s" alt="20:15">20:15</a></td>
+                <td>Comentários adicionais da atualização do Angular 12</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=1668s" alt="27:48">27:48</a></td>
+                <td>VueJS 3.1 é lançado na versão beta!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=1841s" alt="30:41">30:41</a></td>
+                <td>Comentários adicionais do VueJS em sua nova versão</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=2351s" alt="39:11">39:11</a></td>
+                <td>Preview do Hcode Studio!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=2624s" alt="43:44">43:44</a></td>
+                <td>Opiniões dos Instrutores</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=3082s" alt="51:22">51:22</a></td>
+                <td>Google I/O 2021!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=3216s" alt="53:36">53:36</a></td>
+                <td>Comentários adicionais dos possíveis lançamentos no Google I/O 2021</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=3489s" alt="58:09">58:09</a></td>
+                <td>Guido Van têm o objetivo de dobrar performance do Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=3627s" alt="01:00:27">01:00:27</a></td>
+                <td>Comentários adicionais sobre a possível melhoria do Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=3926s" alt="01:05:26">01:05:26</a></td>
+                <td>Chaves de segurança em operações com SSH Git</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=4120s" alt="01:08:40">01:08:40</a></td>
+                <td>Próximas updates do Google Maps com Goole Assistent</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=4654s" alt="01:17:34">01:17:34</a></td>
+                <td>Mão na massa: Tailwind CSS</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=4762s" alt="01:19:22">01:19:22</a></td>
+                <td>Configurando o ambiente do Tailwind CSS</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=5992s" alt="01:39:52">01:39:52</a></td>
+                <td>Card do Youtube e olhando as docs para usar o Tailwind</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=9055s" alt="02:30:55">02:30:55</a></td>
+                <td>Componentes Tailwind CSS</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=9288s" alt="02:34:48">02:34:48</a></td>
+                <td>Conclusão</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=9537s" alt="02:38:57">02:38:57</a></td>
+                <td>Game-Square?</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=9755s" alt="02:42:35">02:42:35</a></td>
+                <td>Hcode Deploy!</td>
             </tr>
         </tbody>
     </table>
