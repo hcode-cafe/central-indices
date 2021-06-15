@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Central de Índices atualizada última vez 15.06.2021 14:12 UTC -3</h3>
+    <h3>Central de Índices atualizada última vez 15.06.2021 19:11 UTC -3</h3>
     <h2>Bem vindos(as) a central de Índices do <b>Hcode Café</b>!</h1>
     <h3><blockquote>Aqui você terá as atualizações e todos os índices sobre conteúdos passados ou explicados durantes as lives do Hcode Café no canal oficial da <a href="https://www.youtube.com/c/HcodeBrasil">Hcode</a></blockquote></h2>
 </div>
@@ -51,5 +51,5 @@
     <a href="mailto:suporte@hcode.com.br">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=suporte@hcode.com.br&color=f0743e">
     </a>
-</p>
+    </p>
 </div>
