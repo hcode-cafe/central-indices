@@ -300,6 +300,8 @@
 
 <h3><blockquote>Falamos sobre Tailwind CSS, Angular 12 e Vue JS 3.1 Beta</blockquote></h3>
 
+<h3><blockquote><a href="https://github.com/hcode-cafe/tailwindcss-youtube-card">Link do repositório do Mão na Massa desta live</a></blockquote></h3>
+
 <div align="center">
     <table>
         <thead>
