@@ -160,6 +160,62 @@
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=1048s" alt="17:28">17:28</a></td>
                 <td>Comentários adicionais sobre o WharsApp Login</td>
             </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=1219s" alt="20:19">20:19</a></td>
+                <td>React 18 é anunciado!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=1830s" alt="30:30">30:30</a></td>
+                <td>Comentários adicionais sobre o React 18</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=1886s" alt="31:26">31:26</a></td>
+                <td>PHP 8.1 Alpha é lançado!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2140s" alt="35:40">35:40</a></td>
+                <td>Comentários adicionais sobre o PHP 8.1</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2353s" alt="39:13">39:13</a></td>
+                <td>Grasshopper - Aplicativo do Google para quem deseja aprender programação</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2518s" alt="41:58">41:58</a></td>
+                <td>Comentários adicionais sobre o Grasshopper</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2562s" alt="42:42">42:42</a></td>
+                <td>GitHub mudança de política para a segurança</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2765s" alt="46:05">46:05</a></td>
+                <td>Comentários adicionais da novidade do GitHub</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2867s" alt="47:47">47:47</a></td>
+                <td>Currículos, Carreiras e Mercado de Trabalho!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2918s" alt="48:38">48:38</a></td>
+                <td>npm init</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=3231s" alt="53:51">53:51</a></td>
+                <td>Primeiro vídeo: Currículo part 1</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=5033s" alt="01:23:53">01:23:53</a></td>
+                <td>Primeira pausa nas gravações</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=5223s" alt="01:27:03">01:27:03</a></td>
+                <td>Segunda vídeo: Currículo  - Montando um currículo part 2</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=6364s" alt="01:46:04">01:46:04</a></td>
+                <td>Segunda pausa nas gravações</td>
+            </tr>
         </tbody>
     </table>
 </div>
