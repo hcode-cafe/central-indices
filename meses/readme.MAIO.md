@@ -286,3 +286,30 @@
         </tbody>
     </table>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+    <h2>Terceira Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=Br1poZSUd1o">Hcode Café ☕ - #87</a></blockquote></h3>
+</div>
+
+<h3><blockquote>Falamos sobre Tailwind CSS, Angular 12 e Vue JS 3.1 Beta</blockquote></h3>
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Tempo</th>
+                <th>Assunto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=Br1poZSUd1o&t=0s" alt="00:00">00:00</a></td>
+                <td>npm start</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
