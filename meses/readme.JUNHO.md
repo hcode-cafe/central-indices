@@ -202,7 +202,7 @@
             </tr>
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=3231s" alt="53:51">53:51</a></td>
-                <td>Primeiro vídeo: Currículo part 1</td>
+                <td>Primeiro vídeo: Currículo - Antes de montar um part 1</td>
             </tr>
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=5033s" alt="01:23:53">01:23:53</a></td>
@@ -210,7 +210,7 @@
             </tr>
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=5223s" alt="01:27:03">01:27:03</a></td>
-                <td>Segunda vídeo: Currículo  - Montando um currículo part 2</td>
+                <td>Segundo vídeo: Currículo  - Montando um currículo part 2</td>
             </tr>
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=6364s" alt="01:46:04">01:46:04</a></td>
