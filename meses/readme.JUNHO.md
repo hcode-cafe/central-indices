@@ -216,6 +216,46 @@
                 <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=6364s" alt="01:46:04">01:46:04</a></td>
                 <td>Segunda pausa nas gravações</td>
             </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=6694s" alt="01:51:34">01:51:34</a></td>
+                <td>Terceiro vídeo: Carreiras</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=8508s" alt="02:21:48">02:21:48</a></td>
+                <td>Terceira pausa nas gravações</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=8897s" alt="02:28:17">02:28:17</a></td>
+                <td>Falando sobre o HcodeLAB</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=9187s" alt="02:33:07">02:33:07</a></td>
+                <td>Quarto vídeo: Entrevista</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=11147s" alt="03:05:47">03:05:47</a></td>
+                <td>Quarta pausa nas gravações</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=11150s" alt="03:05:50">03:05:50</a></td>
+                <td>Hcode Café GitHub: Navegação de Índices</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=11193s" alt="03:06:33">03:06:33</a></td>
+                <td>Organizando seu Profile do GitHub</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=11282s" alt="03:08:02">03:08:02</a></td>
+                <td>Último vídeo: Fui contratado, e agora?</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=12417s" alt="03:26:57">03:26:57</a></td>
+                <td>Conclusão</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=12626s" alt="03:30:26">03:30:26</a></td>
+                <td>Hcode Deploy!</td>
+            </tr>
         </tbody>
     </table>
 </div>
