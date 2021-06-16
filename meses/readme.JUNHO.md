@@ -134,6 +134,11 @@
 
 <h3><blockquote>Falamos sobre Como criar um currículo DIFERENCIADO</blockquote></h3>
 
+<h3><blockquote>📌Links usados na live</blockquote></h3>
+<li>https://go.hcode.com.br/F5jehX</li>
+<li>https://github.com/hcode-cafe</li>
+<li>https://github.com/guilhermedsribeiro</li>
+
 <div align="center">
     <table>
         <thead>
