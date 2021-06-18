@@ -404,4 +404,41 @@
             </tr>
         </tbody>
     </table>
-</div> 
+</div>
+
+<br>
+<br>
+
+<div align="center">
+    <h2>Quarta Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=v8M21zNSKaI">Hcode Café ☕ - #88</a></blockquote></h3>
+</div>
+
+<h3><blockquote>Falamos sobre a descontinuação do Internet Explorer, Sublime Text 4, Flutter 2.2, Google Fotos e Criando um jogo com HTML, CSS e JS</blockquote></h3>
+
+<h3><blockquote><a href="https://github.com/hcode-cafe/game-square">Link do repositório do Mão na Massa desta live</a></blockquote></h3>
+
+<h3><blockquote>📌Links usados na live</blockquote></h3>
+<li>📁 Assets do Projeto<br>https://go.hcode.com.br/2d4BPH</li>
+<li>🎨 Figma do Projeto<br>https://go.hcode.com.br/huC27A</li>
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Tempo</th>
+                <th>Assunto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=v8M21zNSKaI&t=0s" alt="00:00">00:00</a></td>
+                <td>npm start</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=v8M21zNSKaI&t=399s" alt="06:39">06:39</a></td>
+                <td>Boas Vindas!</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
