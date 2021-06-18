@@ -421,7 +421,7 @@
 <h3><blockquote>📌Links usados na live</blockquote></h3>
 <li>📁 Assets do Projeto<br>https://go.hcode.com.br/2d4BPH</li>
 <li>🎨 Figma do Projeto<br>https://go.hcode.com.br/huC27A</li>
-
+<br>
 <div align="center">
     <table>
         <thead>
