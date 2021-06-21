@@ -267,3 +267,34 @@
         </tbody>
     </table>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+    <h2>Terceira Live do Mês</h2>
+    <h3><blockquote><a href="https://www.youtube.com/watch?v=S3m1otSr5EM">Hcode Café ☕ - #92</a></blockquote></h3>
+</div>
+
+<h3><blockquote>Falaremos sobre: O Que é Banco de Dados? Como se ESPECIALIZAR neste Universo?</blockquote></h3>
+
+<h3><blockquote>📌Links usados na live</blockquote></h3>
+<li>https://github.com/hcode-cafe</li>
+<li>https://github.com/guilhermedsribeiro</li>
+<br>
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Tempo</th>
+                <th>Assunto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=0s" alt="00:00">00:00</a></td>
+                <td>npm start</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
