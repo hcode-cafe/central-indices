@@ -278,9 +278,6 @@
 
 <h3><blockquote>Falaremos sobre: O Que é Banco de Dados? Como se ESPECIALIZAR neste Universo?</blockquote></h3>
 
-<h3><blockquote>📌Links usados na live</blockquote></h3>
-<li>https://github.com/hcode-cafe</li>
-<li>https://github.com/guilhermedsribeiro</li>
 <br>
 <div align="center">
     <table>
