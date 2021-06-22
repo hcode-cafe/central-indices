@@ -276,7 +276,7 @@
     <h3><blockquote><a href="https://www.youtube.com/watch?v=S3m1otSr5EM">Hcode Café ☕ - #92</a></blockquote></h3>
 </div>
 
-<h3><blockquote>Falaremos sobre: O Que é Banco de Dados? Como se ESPECIALIZAR neste Universo?</blockquote></h3>
+<h3><blockquote>Falamos sobre: O Que é Banco de Dados? Como se ESPECIALIZAR neste Universo?</blockquote></h3>
 
 <br>
 <div align="center">
@@ -291,6 +291,54 @@
             <tr>
                 <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=0s" alt="00:00">00:00</a></td>
                 <td>npm start</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=354s" alt="05:54">05:54</a></td>
+                <td>Boas Vindas!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=726s" alt="12:06">12:06</a></td>
+                <td>Destaques</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=1197s" alt="19:57">19:57</a></td>
+                <td>Windows 11 vaza novidades!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=1434s" alt="23:54">23:54</a></td>
+                <td>Comentários adicionais do Windows 11 vazado</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=1460s" alt="24:20">24:20</a></td>
+                <td>Next.js 11 é lançado!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=2116s" alt="35:16">35:16</a></td>
+                <td>Comentários adicionais sobre o Next 11</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=2217s" alt="36:57">36:57</a></td>
+                <td>Google rastreando celulares perdidos sem internet!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=2419s" alt="40:19">40:19</a></td>
+                <td>Comentários adicionais sobre essa novidades do Google</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=2638s" alt="43:58">43:58</a></td>
+                <td>Código original da Web será leiloado por Tim Berners-Lee</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=2938s" alt="48:58">48:58</a></td>
+                <td>Comentários adicionais desse leilão</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=3034s" alt="50:34">50:34</a></td>
+                <td>AWS Proton sendo lançado!</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.youtube.com/watch?v=S3m1otSr5EM&t=3281s" alt="54:41">54:41</a></td>
+                <td>Comentários adicionais sobre esse lançamento da Amazon</td>
             </tr>
         </tbody>
     </table>
